@@ -1,4 +1,4 @@
-# Title
+# Link Tree Page
 
 Max Haider Dev
 
@@ -21,11 +21,11 @@ The main styles are defined in the `main.less` file. This file includes styles f
 
 Here's a demo of how to use the project:
 
-![Demo](https://link-to-your-gif.com)
+![Demo](https://github.com/maxh33/link-tree-maxHaiderDev/raw/main/src/link-tree-max-haider-dev.gif)
 
 ## Deployment
 
-The project is deployed on Vercel. You can access it [here](https://your-vercel-link.com).
+The project is deployed on Vercel. You can access it [here](https://link-tree-max-haider-dev.vercel.app/).
 
 ## Running the Page Locally
 
